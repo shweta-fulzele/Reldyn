@@ -1,4 +1,4 @@
-# 🚀 Build a Static UI Project with Kotlin Jetpack Compose 🚀 
+# 🚀 Build a Static UI Project with Kotlin Jetpack Compose
 
 ## 🌟Kickstart Your Android App Development🌟
 
