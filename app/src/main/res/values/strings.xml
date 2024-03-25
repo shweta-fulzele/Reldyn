@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ReldynProject</string>
+    <string name="consent_details">Consent Details</string>
+    <string name="send_money_to_love_ones_around_the_world_with_ease">Send money to love ones around\nthe world with ease.</string>
+    <string name="easy_money_transfer_worldwide">Easy Money \nTransfer \nWorldwide</string>
+    <string name="swipe_to_get_started">Swipe to get started</string>
+    <string name="already_a_member">Already a member </string>
+    <string name="login_here">login here</string>
+    <string name="proceed">Proceed</string>
+    <string name="i_agree_with_reldyns">I agree with Reldyn’s </string>
+    <string name="terms_and_conditions">Terms and Conditions</string>
+    <string name="privacy_policy_and_privacy_notice"> Privacy Policy and Privacy Notice</string>
+    <string name="im_18_years_and_above">I am 18 years and above</string>
+    <string name="take_control_of_your_finance">Take Control of Your \n\nFinances </string>
+    <string name="anytime_anywhere">Anytime\n\nAnywhere</string>
+    <string name="please_select_above_options">Please select above options</string>
+    <string name="secure_your_financial_future_with_our_trusted_banking_services">Secure your financial future with our trusted banking services</string>
+    <string name="dummy_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</string>
+    <string name="this_might_take_a_while_why_not_take_a_coffee_break">This might take a while why not take a coffee break</string>
+    <string name="please_be_patient">Please be patient, as this step is crucial for protecting your account and transactions. Your journey to secure banking is almost complete</string>
+</resources>
